@@ -1,8 +1,7 @@
 import View from './View.js';
 
 import icons from 'url:../../img/icons.svg'; // Parcel 2
-import { fracty } from 'fracty';
-import { Fraction } from Fraction
+import { Fraction } from 'fractional';
 import { mark } from 'regenerator-runtime';
 import { state } from '../model.js';
 
